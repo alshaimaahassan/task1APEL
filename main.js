@@ -23,7 +23,7 @@ let valid = (e)=>{
     if (arRe.test(arv.valueOf)){
     console.log("good")
 }else{
-   ar.style.color("red")
+   console.log("bad")
 }
 
 
